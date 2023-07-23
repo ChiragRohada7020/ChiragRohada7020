@@ -55,7 +55,7 @@
 
 <p>
 <!-- <a href="https://www.vivek9patel.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/chirag-rohada"><img src="https://img.shields.io/badge/-chirag-rohada-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/vivek9patel"><img src="https://img.shields.io/badge/-chiragrohada-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:chiragrohada40@gmail.com"><img src="https://img.shields.io/badge/-chiragrohada40@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/chiragrohada"><img src="https://img.shields.io/badge/-@chiragrohada-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
